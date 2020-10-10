@@ -1,3 +1,13 @@
+/* Material utilizado
+  1x Arduino UNO R3
+  1x Protoboard
+  1x LED vermelho
+  1x LED amarelo
+  1x LED verde
+  3x resistores de 300 Ohm
+  7x jumpers macho-macho
+*/
+
 // Identifca os pinos que serão utilizados para cada cor
 int red = 10;
 int yellow = 9;
