@@ -22,7 +22,7 @@ void setup() {
 
 void loop() {
   // Apaga a luz vermelha e verde enquanto deixa a amarela acessa
-  digitalWrite(red, low);
+  digitalWrite(red, LOW);
   digitalWrite(yellow, HIGH);
   digitalWrite(green, LOW);
 
